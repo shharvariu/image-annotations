@@ -7,4 +7,4 @@
 
 ## Folder Structure
 - `Street-images/`: Raw images.
-- `street-image-annotations/`: Exported labels.
+- `street-image-annotations/`: Exported annotations.
